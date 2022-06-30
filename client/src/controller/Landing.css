@@ -1,0 +1,23 @@
+.containers{
+	/* background-image: url('https://images4.alphacoders.com/936/thumb-1920-936378.jpg'); */
+
+
+
+
+	display: inline-flex;
+	color: #fff;
+
+	width: 100%;
+	font-size: 3vw;
+	position: inherit;
+	padding: auto;
+	margin-right: auto;
+}
+.nav{
+	display: flex
+}
+a{
+	text-decoration: none;
+	color: #fff;
+	list-style: none;
+}
